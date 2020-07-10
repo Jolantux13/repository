@@ -1,0 +1,328 @@
+label	replace by
+tsk	takagi sugeno kang
+tsk model	takagi sugeno kang
+abc	Artificial Bee Colony Optimization
+aco	Ant Colony Optimization
+cfs	conceptual fuzzy set
+common fuzzy set	fuzzy set
+compact fuzzy classifier	fuzzy classifier
+compact rule base	fuzzy rule base
+complex fuzzy model	fuzzy model
+complex fuzzy set	fuzzy set
+complexity minimization	complexity reduction
+computational burden	computational complexity
+computational effort	computational cost
+date fuzzy rule base	fuzzy rule base
+rule base	fuzzy rule base
+dimensional fuzzy set	fuzzy set
+fcm	fuzzy c-means
+fcm algorithm	fuzzy c-means
+fuzzy c mean	fuzzy c-means
+fuzzy c	fuzzy c-means
+flc	fuzzy controller
+flcs	fuzzy controller
+fuzzy control	fuzzy controller
+fuzzy logic controllers	fuzzy controller
+fuzzy logic controller	fuzzy controller
+fls	fuzzy system
+flss	fuzzy system
+fuzzy logic systems	fuzzy system
+fnn	fuzzy neural network
+fnns	fuzzy neural network
+fuzzy neural network system	fuzzy neural network
+frbc	fuzzy rule-based classifier
+fuzzy rule-based classifiers	fuzzy rule-based classifier
+frbcs	fuzzy rule-based classifier
+frbss	fuzzy rule-based system
+fuzzy rule-based systems	fuzzy rule-based system
+good accuracy	accuracy
+good interpretability	interpretability
+high accuracy	accuracy
+high dimensional dataset	high dimensional data
+high interpretability	interpretability
+initial fuzzy model	fuzzy model
+initial parameter	parameter
+initial rule base	fuzzy rule base
+interpolation approach	interpolation
+interpolation method	interpolation
+interval valued fuzzy sets	interval valued fuzzy set
+ivfs	interval valued fuzzy set
+ivfss	interval valued fuzzy set
+iris data	iris
+it2fs	interval type-2 fuzzy set
+it2fss	interval type-2 fuzzy set
+it2 fss	interval type-2 fuzzy set
+low computational complexity	computational complexity
+mamdani type fuzzy rule	mamdani fuzzy rule
+maximum accuracy	accuracy
+model accuracy	accuracy
+model complexity	complexity
+modeling accuracy	accuracy
+moea	multi-objective evolutionary algorithm
+moeas	multi-objective evolutionary algorithm
+multi-objective evolutionary algorithms	multi-objective evolutionary algorithm
+multi objective evolutionary algorithm	multi-objective evolutionary algorithm
+new evolutionary algorithm	evolutionary algorithm
+new rule	
+non membership function	membership function
+initial membership function	
+secondary membership function	
+gaussian membership function	
+optimal membership function	
+membership functions	membership function
+mfs	
+fuzzy membership function	membership function
+nsga ii	non-dominated sorting genetic algorithm
+positive synergy	synergy
+rcs	rule and condition selection
+fis	fuzzy inference system
+important issue	issue
+premise	rule condition
+antecedent	rule condition
+pso	particle swarm optimization
+key issue	issue
+fundamental issue	issue
+svm	support vector machine
+tuning approach	tuning
+consequence	rule consequent
+consequent part	rule consequent
+association rule	fuzzy association rule
+sorting genetic algorithm	non-dominated sorting genetic algorithm
+rule antecedent	rule condition
+antecedent part	rule condition
+condition	rule condition
+adjustable parameter	parameter
+fitness evaluation	fitness function
+fuzzy decision tree	decision tree
+decision trees	decision tree
+better performance	performance
+good performance	performance
+high performance	performance
+real world dataset	dataset
+same time	time
+classification problem	classification
+data set	dataset
+training data	training set
+information granules	information granularity
+granule	information granularity
+form	shape
+article	
+author	
+case study	
+chromosome	
+field	
+gas	
+part	
+principle	
+proposed method	
+research	
+stage	
+account	
+choice	
+definition	
+degree	
+fact	
+family	
+mean	
+nature	
+objective	
+point	
+position	
+real application	
+recent year	
+representation	
+respect	
+step	
+way	
+well	
+new method	
+numerical example	
+population	
+real world application	
+self	
+context	
+evolutionary process	
+high level	
+main advantage	
+one	
+real world	
+search space	
+state	
+study	
+effect	
+consideration	
+new approach	
+experimental result	
+addition	
+decision	
+component	
+experiment	
+purpose	
+aim	
+implementation	
+operation	
+concept	
+factor	
+class	
+level	
+experimental study	
+activity	
+calculation	
+complex system	
+control application	
+detail	
+environment	
+essence	
+goal	
+general type	type
+group	
+hardware	
+illustrative example	
+input output data	dataset
+investigation	
+large amount	
+latter	
+less number	
+loss	
+many application	
+novel	
+online manner	
+novel approach	
+parameter learning	learning
+person	
+series	
+superiority	
+variation	
+diagnosis	
+element	
+experiment result	
+feature space	
+i e	
+idea	
+important aspect	
+introduction	
+main idea	
+nonlinear dynamic	
+operator	
+optimal number	
+optimal	
+performance comparison	
+relevant feature	
+similar fuzzy set	fuzzy set
+simultanious optimization	optimization
+small number	
+t s	
+turn	
+anfis	adaptive-network-based fuzzy inference system
+change	
+contribution	
+database	
+design methodology approach	
+end	
+formation	
+human being	
+impact	
+interaction	
+kind	
+main aim	
+main objective	
+originality value	
+proposal	
+research limitations implication	
+researcher	
+restriction	
+subsystem	
+topic	
+total number	
+view	
+diversity	
+equivalence	
+ignorance	
+lack	
+linear	
+need	
+optimization technique	
+pattern	
+power	
+relationship	
+rule selection	
+significance	
+success	
+superior performance	performance
+support	
+surface	
+useful tool	
+wide range	
+word	
+amount	
+applicability	
+assumption	
+conclusion	
+connection	
+dimensionality	
+evaluation	
+extension	
+first phase	
+freedom	
+hand	
+high dimensionality	high dimensional data
+interest	
+observation	
+second phase	
+simple	
+version	
+c45	
+classification rate	
+critical issue	issue
+data base	
+instance	
+nonparametrical statistical test	non parametrical statistical test
+novel method	
+second stage	
+specificity	
+year	
+area	
+advantage	
+case	
+use	
+behavior	
+ability	
+theory	
+region	
+phase	
+paper	
+large number	
+subset	
+work	
+method	
+system	
+approach	
+number	
+problem	
+result	
+algorithm	
+model	
+technique	
+example	
+rule	
+analysis	
+process	
+function	
+literature	
+error	
+information	
+application	
+mechanism	
+set	
+input space	input
+input variable	input
+design	
+task	
+development	
+capability	
+effectiveness	efficiency
+index	
+order	
+scheme	
+term	
+value	
